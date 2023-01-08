@@ -2,6 +2,7 @@
 
 ## Description
 This HTML code was done as part of CSS Week2 Bootcamp challenge to meet below user story acceptance criteria.
+Please check link https://deepasu1.github.io/DeepaProfile/ 
 
 ## Installation
 Open HTML in default browser, no installation required
